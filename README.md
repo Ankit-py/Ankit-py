@@ -25,7 +25,7 @@
   <h4>Drop a mail at : ankitmohapatra04@gmail.com</h4>
   <hr>
   <h3>
-    Socials : <a href="[https://www.linkedin.com/ankitmohapatra2020](https://www.linkedin.com/in/ankitmohapatra2020/)">LinkedIn</a> | <a href="https://twitter.com/ankit12__">Twitter</a> |
+    Socials : <a href="https://www.linkedin.com/in/ankitmohapatra2020/">LinkedIn</a> | <a href="https://twitter.com/ankit12__">Twitter</a> |
     <a href="https://www.instagram.com/ankit.xii">Instagram</a>
   </h3>
 </div>
