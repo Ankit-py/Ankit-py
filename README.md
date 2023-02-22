@@ -15,7 +15,7 @@
     <td><p> C/C++ </br> JavaScript </br> Python </p></td>
     <td><p> HTML </br> CSS </br> JavaScript </br> React.JS </br> Tailwind CSS </br> Bootstrap </br> Angular </br> Chakra UI </p></td>
     <td><p> JavaScript </br> Node.JS </br> Express.JS </br> Next.JS </br> Restful APIs </p></td>
-    <td><p> React Native </br> Expo </p></td>
+    <td><p> ReactNative </br> Expo </p></td>
     <td><p> SQL </br> MongoDB </br> Firebase </p></td>
     <td><p> Data Structures & Algorithms </br> Operating Systems </br> Computer Networking </p></td>
     <td><p> Blockchain </br> Solidity </br> Ethereum </br> ML Basics </p></td>
