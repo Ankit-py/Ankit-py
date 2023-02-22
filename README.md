@@ -21,4 +21,12 @@
     <td><p> Blockchain </br> Solidity </br> Ethereum </br> ML Basics </p></td>
   </tr>
 </table>
+<div align="center">
+  <h4>Drop a mail at : <a href="mailto:ankitmohapatra04@gmail.com">ankitmohapatra04@gmail.com</a></h4>
+  </br>
+  <h3>
+    Socials : <a href="https://www.linkedin.com/ankitmohapatra2020">LinkedIn</a> <a href="https://twitter.com/ankit12__">Twitter</a> 
+    <a href="https://www.instagram.com/ankit.xii">Instageram</a>
+  </h3>
+</div>
 
