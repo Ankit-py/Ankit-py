@@ -1,4 +1,4 @@
-<h1 align="center"> Hello World 🙏 I'm Ankit Mohapatra <p>[<a href="https://ank1t.netlify.app">Portfolio</a>]</p> </h1>
+<h1 align="center"> Hello World 🙏 I'm Ankit <p>[<a href="https://ank1t.netlify.app">Portfolio</a>]</p> </h1>
 <h3 align="center">Full Stack Developer</h3>
 <h2 align="center">Skills</h2>
 <table align="center">
